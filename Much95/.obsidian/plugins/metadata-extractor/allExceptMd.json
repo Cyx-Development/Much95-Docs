@@ -1,0 +1,83 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Erste Schritte",
+      "relativePath": "Erste Schritte"
+    },
+    {
+      "name": "Kleidungssystem",
+      "relativePath": "Kleidungssystem"
+    },
+    {
+      "name": "Regelwerk",
+      "relativePath": "Regelwerk"
+    },
+    {
+      "name": "Tastenbelegung",
+      "relativePath": "Tastenbelegung"
+    },
+    {
+      "name": "Allgemein",
+      "relativePath": "Regelwerk/Allgemein"
+    },
+    {
+      "name": "Fraktion - Gruppierung",
+      "relativePath": "Regelwerk/Fraktion - Gruppierung"
+    },
+    {
+      "name": "§3 Korruption in Staatsfraktionen",
+      "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    },
+    {
+      "name": "warenkorb_step_1.png",
+      "basename": "warenkorb_step_1",
+      "relativePath": "Kleidungssystem/warenkorb_step_1.png"
+    },
+    {
+      "name": "warenkorb_step_2.png",
+      "basename": "warenkorb_step_2",
+      "relativePath": "Kleidungssystem/warenkorb_step_2.png"
+    },
+    {
+      "name": "warenkorb_step_3.png",
+      "basename": "warenkorb_step_3",
+      "relativePath": "Kleidungssystem/warenkorb_step_3.png"
+    },
+    {
+      "name": "warenkorb_step_4.png",
+      "basename": "warenkorb_step_4",
+      "relativePath": "Kleidungssystem/warenkorb_step_4.png"
+    },
+    {
+      "name": "warenkorb_step_5.png",
+      "basename": "warenkorb_step_5",
+      "relativePath": "Kleidungssystem/warenkorb_step_5.png"
+    },
+    {
+      "name": "warenkorb_step_6.png",
+      "basename": "warenkorb_step_6",
+      "relativePath": "Kleidungssystem/warenkorb_step_6.png"
+    },
+    {
+      "name": "saltychat.png",
+      "basename": "saltychat",
+      "relativePath": "Erste Schritte/saltychat.png"
+    },
+    {
+      "name": "tastenbelegung.png",
+      "basename": "tastenbelegung",
+      "relativePath": "Tastenbelegung/tastenbelegung.png"
+    }
+  ]
+}

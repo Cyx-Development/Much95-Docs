@@ -1,0 +1,3 @@
+1.  Achte bei einem Raubüberfall o.ä. darauf deinem Gegenüber nur Waren oder Gelder abzunehmen, die im Verhältnis zum gespielten RP stehen.
+2.  Es darf nicht erzwungen werden, Autos aus Garagen auszuparken, um deren Inhalt zu entwenden.
+3.  Eine Zwangseinstellung in einer Firma / Fabrik zu erzwingen, um das Lager zu plündern, oder das Geld vom Konto abzubuchen ist verboten. Beispiel: Dein Opfer erzählt dir aus Angst, dass er 10.000 Dollar bei sich hat. Nehm ihm nicht alles ab, sondern handel so, dass beide Zufrieden aus dem RP gehen!

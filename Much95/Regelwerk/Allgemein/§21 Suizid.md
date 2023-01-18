@@ -1,0 +1,2 @@
+1.  Absichtlicher Suizid, um einer Roleplay-Situation zu entkommen, ist verboten.
+2.  Suizid ist keine Lösung! Ein tiefgründiger RP-Strang muss vorausgegangen sein, um vom Support akzeptiert werden zu können.

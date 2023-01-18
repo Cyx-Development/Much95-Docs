@@ -1,0 +1,1 @@
+Ninja RP beschreibt das Einmischen in eine Roleplay Situation ohne direkten Bezug zu dieser zu haben. -> ist Verboten!

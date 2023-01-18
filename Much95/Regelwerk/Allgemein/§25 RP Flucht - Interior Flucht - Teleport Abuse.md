@@ -1,0 +1,3 @@
+1.  Die Flucht aus einer Roleplay-Situation, indem man sich ausloggt, von der Situation entfernt oder Selbstmord begeht, ist verboten (z.B. Offlineflucht / Combat Log-Out).
+2.  Das Flüchten in eine für andere nicht begehbare Wohnung, Firma oder anderes nicht begehbares Gebäude um einer Roleplay Situation zu entkommen oder sich einen anderen Vorteil zu beschaffen ist untersagt. Beispiel: Du wirst von der Polizei verfolgt; parkst an deinem Haus und verschwindest in diesem da die Polizei dir nicht folgen kann.
+3.  Das Ausnutzen von bereitgestellten Teleportmöglichkeiten ist nicht erlaubt. Beispiel: Du flüchtest zum MD, deine Verfolger sind dicht hinter dir und du gehst in kurzen Zeitintervallen in den Aufzug und fährst hoch und runter!

@@ -1,0 +1,1 @@
+Das Töten, Anfahren und Angreifen anderer Spieler mit Fahrzeugen ist generell verboten.

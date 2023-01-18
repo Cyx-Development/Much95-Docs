@@ -1,0 +1,1 @@
+Das Töten, Beschießen oder Angreifen anderer Spieler ohne sinnvollen Grund ist untersagt.

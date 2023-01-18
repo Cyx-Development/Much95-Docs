@@ -1,0 +1,2 @@
+1.  Benutzt man einen Bug absichtlich und/oder bereichert man sich daran, wird dies bestraft.
+2.  Wird ein Fehler gefunden, ist dieser umgehend dem Support zu melden. Des Weiteren werden alle Gegenstände entzogen, die auf Bugusing zurückzuführen sind.

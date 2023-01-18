@@ -1,0 +1,1 @@
+Über den Verlauf oder das Ergebnis einer RP-Situation/Strang im Vorfeld mit den beteiligten Parteien außerhalb des Spiels zu kommunizieren, ist verboten.

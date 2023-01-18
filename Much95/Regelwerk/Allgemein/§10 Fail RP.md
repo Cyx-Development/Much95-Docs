@@ -1,0 +1,2 @@
+1.  Fällt man im RP aus der Rolle bzw. spielt die aktuelle RP Situation nicht angemessen aus bezeichnet man dies als Fail RP. (Frag dich selbst, kann mein Charakter diese Aktion ausführen?) Beispiel: Ist dein Charakter gefesselt, kannst du KEIN Handy oder Funkgerät bedienen!
+2.  Nach einem Unfall sind Verletzungen und Schäden am Auto im RP auszuspielen!

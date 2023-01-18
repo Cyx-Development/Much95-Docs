@@ -1,0 +1,5 @@
+1.  Jeder Benutzer muss sich respektvoll gegenüber anderen Benutzern verhalten.
+2.  Jegliche Formen von Beleidigungen, Mobbing, Rassismus, Diskriminierung, Drohungen, Religionsfeindlichkeit, Sexismus oder Bloßstellung ist verboten.
+3.  Benutzer aufgrund von deren Meinung, Nationalität, Ethnie, Hautfarbe, Religion, Alter, Geschlecht, sexuelle Ausrichtung, Sprache oder Schreibweise zu benachteiligen ist verboten.
+4.  Die Verbreitung von extremistischen, sexistisch*en, religionsfeindlichen, provokativen, gewaltverherrlichenden, brutalen, nicht jugendfreien, illegalen Inhalten oder Links, welche auf Seiten mit solche Inhalten leiten, ist verboten.
+5.  Es ist verboten nicht klar administrativ bestätigte Tatsachen an Dritte über eine Person zu verbreiten, um die öffentliche Meinung herabzuwürdigen oder dessen Glaubwürdigkeit zu gefährden.

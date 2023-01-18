@@ -1,0 +1,4 @@
+1.  Das Übertragen von Wertgegenständen oder verschenken größerer Summen Geld, ohne nachvollziehbarer Gegenleistung, ist im generellen Verboten.
+2.  Im Spiel AFK zu gehen ist maximal 5 Minuten erlaubt. Es ist darauf zu achten, dass man sich an einem Ort befindet, wo höchstwahrscheinlich andere einen selbst nicht finden, ansprechen können oder sehen.
+3.  Der Support darf nur über das bereitgestellte Ticketsystem im Discord kontaktiert werden, sowie im Teamspeak, unter Supportbereich. Die Kontaktaufnahme über Direktnachrichten im Discord, Anstupsen im Teamspeak oder über IC Kommunikationsmittel sind nicht gestattet.
+4.  Rückerstattungen? Unter bestimmten Voraussetzungen(Mit Clip ab 25.000 Dollar!)

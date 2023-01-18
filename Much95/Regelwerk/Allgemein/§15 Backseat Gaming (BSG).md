@@ -1,0 +1,1 @@
+Anweisungen von anderen Personen befolgen, die sich nicht auf dem Server befinden sind verboten! Beispiel: Ein Zuschauer im Chat sagt: "Du sollst etwas Essen" oder "Klau mal das Cop Auto"!

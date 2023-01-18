@@ -1,0 +1,2 @@
+1.  Power RP bedeutet, dass man dem anderen Spieler keine Möglichkeit einräumt auf das eigene RP einzugehen bzw. ihm sein RP aufzwingt und keinen Handlungsspielraum lässt. Beispiel: "Spring die Brücke runter (10m) oder ich erschieße dich!" Frag dich selber, ob der Spieler eine Möglichkeit hat um aus deiner RP Situation zu kommen
+2.  ATM Auszahlungen zu erzwingen sind untersagt.

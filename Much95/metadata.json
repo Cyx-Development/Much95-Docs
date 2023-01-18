@@ -1,0 +1,367 @@
+[
+  {
+    "fileName": "Übersicht",
+    "relativePath": "Tastenbelegung/Übersicht.md"
+  },
+  {
+    "fileName": "Interaktionsmenü",
+    "relativePath": "Tastenbelegung/Interaktionsmenü.md"
+  },
+  {
+    "fileName": "Emotes",
+    "relativePath": "Tastenbelegung/Emotes.md"
+  },
+  {
+    "fileName": "Emote Menü",
+    "relativePath": "Tastenbelegung/Emote Menü.md"
+  },
+  {
+    "fileName": "Startseite",
+    "relativePath": "Startseite.md",
+    "headings": [
+      {
+        "heading": "Much95 Docs",
+        "level": 2
+      },
+      {
+        "heading": "Folgende Dinge brauchst du, um auf ***Much95*** zu spielen:",
+        "level": 4
+      },
+      {
+        "heading": "Bitte lies dir unbedingt das Regelwerk durch!",
+        "level": 3
+      },
+      {
+        "heading": "Erste Schritte",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Installation - altV",
+        "displayText": "Erste Schritte/Installation - altV",
+        "relativePath": "Erste Schritte/Installation - altV.md"
+      },
+      {
+        "link": "Installation - TeamSpeak³ + Salty Chat",
+        "displayText": "Erste Schritte/Installation - TeamSpeak³ + Salty Chat",
+        "relativePath": "Erste Schritte/Installation - TeamSpeak³ + Salty Chat.md"
+      },
+      {
+        "link": "Verbinden mit Much95",
+        "displayText": "Erste Schritte/Verbinden mit Much95",
+        "relativePath": "Erste Schritte/Verbinden mit Much95.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Regelwerk",
+    "relativePath": "Regelwerk/Regelwerk.md"
+  },
+  {
+    "fileName": "§3.6 Department of Public Safety",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.6 Department of Public Safety.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.6 Department of Public Safety",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3.5 Downtown Cap",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.5 Downtown Cap.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.5 Downtown Cap",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3.4 Department of Motor Vehicle",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.4 Department of Motor Vehicle.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.4 Department of Motor Vehicle",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3.3 Department of Justice",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.3 Department of Justice.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.3 Department of Justice",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3.2 Los Santos Medical Department",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.2 Los Santos Medical Department.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.2 Los Santos Medical Department",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3.1 Los Santos Police Department",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.1 Los Santos Police Department.md",
+    "backlinks": [
+      {
+        "fileName": "§3 Korruption in Staatsfraktionen",
+        "link": "§3.1 Los Santos Police Department",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§3 Korruption in Staatsfraktionen",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3 Korruption in Staatsfraktionen.md",
+    "links": [
+      {
+        "link": "§3.1 Los Santos Police Department",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.1 Los Santos Police Department.md"
+      },
+      {
+        "link": "§3.2 Los Santos Medical Department",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.2 Los Santos Medical Department.md"
+      },
+      {
+        "link": "§3.3 Department of Justice",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.3 Department of Justice.md"
+      },
+      {
+        "link": "§3.4 Department of Motor Vehicle",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.4 Department of Motor Vehicle.md"
+      },
+      {
+        "link": "§3.5 Downtown Cap",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.5 Downtown Cap.md"
+      },
+      {
+        "link": "§3.6 Department of Public Safety",
+        "relativePath": "Regelwerk/Fraktion - Gruppierung/§3 Korruption in Staatsfraktionen/§3.6 Department of Public Safety.md"
+      }
+    ]
+  },
+  {
+    "fileName": "§1 Gruppierungen - Banden",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§1 Gruppierungen - Banden.md"
+  },
+  {
+    "fileName": "§2 Blood In - Blood Out",
+    "relativePath": "Regelwerk/Fraktion - Gruppierung/§2 Blood In - Blood Out.md"
+  },
+  {
+    "fileName": "§18 Bugusing",
+    "relativePath": "Regelwerk/Allgemein/§18 Bugusing.md"
+  },
+  {
+    "fileName": "§33 Regeländerungen",
+    "relativePath": "Regelwerk/Allgemein/§33 Regeländerungen.md"
+  },
+  {
+    "fileName": "§32 Regelverstoss",
+    "relativePath": "Regelwerk/Allgemein/§32 Regelverstoss.md"
+  },
+  {
+    "fileName": "§19 Vehicle Deathmatch (VDM)",
+    "relativePath": "Regelwerk/Allgemein/§19 Vehicle Deathmatch (VDM).md"
+  },
+  {
+    "fileName": "§31 Aufnahmen",
+    "relativePath": "Regelwerk/Allgemein/§31 Aufnahmen.md"
+  },
+  {
+    "fileName": "§30 Sonstiges",
+    "relativePath": "Regelwerk/Allgemein/§30 Sonstiges.md"
+  },
+  {
+    "fileName": "§29 Sicherheitszonen",
+    "relativePath": "Regelwerk/Allgemein/§29 Sicherheitszonen.md"
+  },
+  {
+    "fileName": "§27 Fahrzeuge",
+    "relativePath": "Regelwerk/Allgemein/§27 Fahrzeuge.md"
+  },
+  {
+    "fileName": "§28 Geiselnahmen",
+    "relativePath": "Regelwerk/Allgemein/§28 Geiselnahmen.md"
+  },
+  {
+    "fileName": "§26 Maskierungen",
+    "relativePath": "Regelwerk/Allgemein/§26 Maskierungen.md"
+  },
+  {
+    "fileName": "§25 RP Flucht - Interior Flucht - Teleport Abuse",
+    "relativePath": "Regelwerk/Allgemein/§25 RP Flucht - Interior Flucht - Teleport Abuse.md"
+  },
+  {
+    "fileName": "§24 Verhältnismässigkeit",
+    "relativePath": "Regelwerk/Allgemein/§24 Verhältnismässigkeit.md"
+  },
+  {
+    "fileName": "§21 Suizid",
+    "relativePath": "Regelwerk/Allgemein/§21 Suizid.md"
+  },
+  {
+    "fileName": "§23 Schussankündigung",
+    "relativePath": "Regelwerk/Allgemein/§23 Schussankündigung.md"
+  },
+  {
+    "fileName": "§22 Extremismus RP",
+    "relativePath": "Regelwerk/Allgemein/§22 Extremismus RP.md"
+  },
+  {
+    "fileName": "§20 Random Deathmatch (RDM)",
+    "relativePath": "Regelwerk/Allgemein/§20 Random Deathmatch (RDM).md"
+  },
+  {
+    "fileName": "§17 Scripted RP",
+    "relativePath": "Regelwerk/Allgemein/§17 Scripted RP.md"
+  },
+  {
+    "fileName": "§16 New-Life Regel",
+    "relativePath": "Regelwerk/Allgemein/§16 New-Life Regel.md"
+  },
+  {
+    "fileName": "§15 Backseat Gaming (BSG)",
+    "relativePath": "Regelwerk/Allgemein/§15 Backseat Gaming (BSG).md"
+  },
+  {
+    "fileName": "§14 Meta Gaming",
+    "relativePath": "Regelwerk/Allgemein/§14 Meta Gaming.md"
+  },
+  {
+    "fileName": "§13 Power RP",
+    "relativePath": "Regelwerk/Allgemein/§13 Power RP.md"
+  },
+  {
+    "fileName": "§12 Ninja RP",
+    "relativePath": "Regelwerk/Allgemein/§12 Ninja RP.md"
+  },
+  {
+    "fileName": "§11 Trolling",
+    "relativePath": "Regelwerk/Allgemein/§11 Trolling.md"
+  },
+  {
+    "fileName": "§10 Fail RP",
+    "relativePath": "Regelwerk/Allgemein/§10 Fail RP.md"
+  },
+  {
+    "fileName": "§09 Allgemeine Roleplay-Regeln",
+    "relativePath": "Regelwerk/Allgemein/§09 Allgemeine Roleplay-Regeln.md"
+  },
+  {
+    "fileName": "§08 Kommunikation",
+    "relativePath": "Regelwerk/Allgemein/§08 Kommunikation.md"
+  },
+  {
+    "fileName": "§07 Charaktername",
+    "relativePath": "Regelwerk/Allgemein/§07 Charaktername.md"
+  },
+  {
+    "fileName": "§06 OOC Anspielungen",
+    "relativePath": "Regelwerk/Allgemein/§06 OOC Anspielungen.md"
+  },
+  {
+    "fileName": "§05 Strikte IC-OOC Trennung",
+    "relativePath": "Regelwerk/Allgemein/§05 Strikte IC-OOC Trennung.md"
+  },
+  {
+    "fileName": "§04 Spielerkonto",
+    "relativePath": "Regelwerk/Allgemein/§04 Spielerkonto.md"
+  },
+  {
+    "fileName": "§03 Umgangsformen",
+    "relativePath": "Regelwerk/Allgemein/§03 Umgangsformen.md"
+  },
+  {
+    "fileName": "§02 Allgemeines",
+    "relativePath": "Regelwerk/Allgemein/§02 Allgemeines.md"
+  },
+  {
+    "fileName": "§01 Geltungsbereich",
+    "relativePath": "Regelwerk/Allgemein/§01 Geltungsbereich.md"
+  },
+  {
+    "fileName": "Klamotten in den Warenkorb legen",
+    "relativePath": "Kleidungssystem/Klamotten in den Warenkorb legen.md"
+  },
+  {
+    "fileName": "Grundlagen des Kleidersystems",
+    "relativePath": "Kleidungssystem/Grundlagen des Kleidersystems.md"
+  },
+  {
+    "fileName": "Installation - TeamSpeak³ + Salty Chat",
+    "relativePath": "Erste Schritte/Installation - TeamSpeak³ + Salty Chat.md",
+    "backlinks": [
+      {
+        "fileName": "Startseite",
+        "link": "Installation - TeamSpeak³ + Salty Chat",
+        "relativePath": "Startseite.md",
+        "displayText": "Erste Schritte/Installation - TeamSpeak³ + Salty Chat"
+      }
+    ]
+  },
+  {
+    "fileName": "Verbinden mit Much95",
+    "relativePath": "Erste Schritte/Verbinden mit Much95.md",
+    "headings": [
+      {
+        "heading": "TeamSpeak Verbindung",
+        "level": 4
+      },
+      {
+        "heading": "Auf den Server verbinden",
+        "level": 4
+      },
+      {
+        "heading": "Registrieren",
+        "level": 4
+      },
+      {
+        "heading": "Charakter-Erstellung",
+        "level": 4
+      },
+      {
+        "heading": "Los Santos International Airport",
+        "level": 4
+      },
+      {
+        "heading": "Grundaustattung",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Startseite",
+        "link": "Verbinden mit Much95",
+        "relativePath": "Startseite.md",
+        "displayText": "Erste Schritte/Verbinden mit Much95"
+      }
+    ]
+  },
+  {
+    "fileName": "Installation - altV",
+    "relativePath": "Erste Schritte/Installation - altV.md",
+    "backlinks": [
+      {
+        "fileName": "Startseite",
+        "link": "Installation - altV",
+        "relativePath": "Startseite.md",
+        "displayText": "Erste Schritte/Installation - altV"
+      }
+    ]
+  }
+]

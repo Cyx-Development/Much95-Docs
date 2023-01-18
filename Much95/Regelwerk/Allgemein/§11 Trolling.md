@@ -1,0 +1,1 @@
+Das vorsätzliche Stören einer Roleplay-situation oder eines Spielers. Beispiele: Das übermäßige Abspielen von Soundboards, mutwilliges Beschädigen von Gegenständen und Fahrzeugen ist verboten.

@@ -1,0 +1,3 @@
+1.  Wer auf dem Server von RP95 spielt, erklärt sich bereit, dass Audio-, Bild- und Videoaufnahmen von ihm gespeichert und veröffentlicht werden können.
+2.  Audio- und Videoaufnahmen dürfen im Roleplay nicht verwendet werden. Sie gelten ausschließlich im Support als Beweismittel.
+3.  Ein Copnet/Medinet-Account (Aktensystem vom LSPD/LSMD) darf nicht weitergegeben werden. Falls Spieler OOC darauf zugreifen, dürfen die Informationen, die sie daraus entnommen haben, nicht IC verwendet werden.

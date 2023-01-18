@@ -1,0 +1,1 @@
+Begriffe und Anspielungen, welche dem Zweck dienen, Dinge von außerhalb des Spiels Ingame anzusprechen, sind unerwünscht. Hierzu zählen Äußerungen wie z.B. Kopfschmerzen, bin mal kurz im Kopf, der macht den Superman, welchen Muskel nutze ich, usw.

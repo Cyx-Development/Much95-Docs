@@ -1,0 +1,1 @@
+Vergewaltigung, Terrorismus, Folter, Zerstückelungen bzw Abschneiden von Körperteilen oder "Verbrechen aus Rassenhass" sind nicht gestattet und werden sanktioniert.

@@ -1,0 +1,1 @@
+Mit gedrückt halten der Taste ***M*** öffnest du das ***Emote-Rad***. Wenn du während des gedrückt haltens der Taste ***M*** die Pfeiltaste ***Rechts*** drückst, kannst du ***Tänze*** und ***Gehstile*** auswählen.
